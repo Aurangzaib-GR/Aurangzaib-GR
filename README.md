@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Aurangzaib! 👋🎮
 
-<!--
-**Aurangzaib-GR/Aurangzaib-GR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate **Unity Game Developer** who loves writing clean C# code and building fun, interactive experiences. I enjoy tackling gameplay mechanics, player controllers, and game optimization. 
 
-Here are some ideas to get you started:
+### 🕹️ What I'm Up To
+* 🔭 Currently working on: **Shadow Dash** and **Count Master Run**
+* 🌱 Currently learning: Advanced Unity physics and game design patterns
+* 💡 My favorite tools: Unity 3D/2D, C#, Visual Studio, and Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Languages and Tools
+* **Game Engine:** Unity
+* **Programming:** C#
+* **Version Control:** Git & GitHub
+
+### 📫 Let's Connect!
+* **LinkedIn:** www.linkedin.com/in/aurangzaib2598
