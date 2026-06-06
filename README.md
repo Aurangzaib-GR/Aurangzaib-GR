@@ -13,4 +13,4 @@ I am a passionate **Unity Game Developer** who loves writing clean C# code and b
 * **Version Control:** Git & GitHub
 
 ### 📫 Let's Connect!
-* **LinkedIn:** www.linkedin.com/in/aurangzaib2598
+* **LinkedIn:** www.linkedin.com/in/aurangzaib-dev
