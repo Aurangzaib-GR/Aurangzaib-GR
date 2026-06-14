@@ -44,6 +44,7 @@
 | :--- | :--- | :---: | :---: |
 | **Shadow Dash** | A hyper-casual 2D dodging game built in Unity. Features dynamic boosters and responsive UI. | [🎮 Play Live](https://aurangzaib-gr.github.io/Shadow-dash/) | [📁 View Code](https://github.com/Aurangzaib-GR/Shadow-dash) |
 | **Space Shooter Pro** | A 2D Space Shooter game built with Unity & C#. Features enemy spawning, lasers, and scoring. | [🎮 Play Live](https://aurangzaib-gr.github.io/Space-Shooter-Pro/) | [📁 View Code](https://github.com/Aurangzaib-GR/Space-Shooter-Pro) |
+| **Jumping Bird** | A classic Flappy Bird-style 2D arcade game built in Unity & C#.| [🎮 Play Live](https://aurangzaib-gr.github.io/Jumping-Bird/) | [📁 View Code](https://github.com/Aurangzaib-GR/Jumping-Bird) |
 
 ---
 
